@@ -18,7 +18,7 @@ if(number >= 1 && number <= 2) {
 }
 
 
-let question1 = parseInt(prompt("Скільк місяців в році")) ;
+let question1 = parseInt(prompt("Скільк місяців в році?")) ;
 
 let rightResultCounter = 0;
 
