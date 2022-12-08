@@ -16,7 +16,9 @@ if(number >= 1 && number <= 2) {
 }  else if(number === 12) {
     alert('Зима');
 }
-
+else {
+    alert("Неможливо");
+ }
 
 let question1 = parseInt(prompt("Скільк місяців в році?")) ;
 
